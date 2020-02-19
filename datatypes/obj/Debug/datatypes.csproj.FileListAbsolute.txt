@@ -1,0 +1,7 @@
+D:\Rohitha\c sharp\datatypes\datatypes\bin\Debug\datatypes.exe.config
+D:\Rohitha\c sharp\datatypes\datatypes\bin\Debug\datatypes.exe
+D:\Rohitha\c sharp\datatypes\datatypes\bin\Debug\datatypes.pdb
+D:\Rohitha\c sharp\datatypes\datatypes\obj\Debug\datatypes.csprojResolveAssemblyReference.cache
+D:\Rohitha\c sharp\datatypes\datatypes\obj\Debug\datatypes.csproj.CoreCompileInputs.cache
+D:\Rohitha\c sharp\datatypes\datatypes\obj\Debug\datatypes.exe
+D:\Rohitha\c sharp\datatypes\datatypes\obj\Debug\datatypes.pdb
